@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://jcformanek.github.io/'
-baseurl: 'website/'
+baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
