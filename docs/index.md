@@ -1,7 +1,7 @@
 ---
-title: Juan Claude Formanek
+title: 
 feature_image: "assets/images/cape_town_mountain.jpeg"
-feature_text:
+feature_text: Juan Claude Formanek
 ---
 
 <img src="assets/images/claude_formanek.jpeg" alt="Claude Formanek" width="240" height="240"/>
