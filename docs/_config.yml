@@ -21,8 +21,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
+url: 'https://jcformanek.github.io/website/'
+baseurl: 'https://jcformanek.github.io/website/'
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
