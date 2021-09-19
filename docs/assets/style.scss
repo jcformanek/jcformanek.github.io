@@ -20,7 +20,7 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto, sans-serif",
   regular: 400,
   bold: 700,
   italic: italic,
@@ -28,14 +28,14 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto, sans-serif",
   regular: 400,
   bold: 700,
   cap-height: 0.75
 ) !default;
 
 $monospacetype: (
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto, sans-serif",
   regular: 400,
   cap-height: 0.68
 ) !default;
