@@ -38,6 +38,8 @@ navigation_header:
   url: /
 - title: Posts
   url: /posts/
+- title: Categories
+  url: /categories/
 
 # Footer nav
 navigation_footer:
