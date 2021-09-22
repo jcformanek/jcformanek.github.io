@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Claude Formanek'
 description: 'Personal Portfolio Website'
 permalink: pretty
-logo: "assets/logos/claude_formanek_logo.png"
+logo: "/assets/logos/claude_formanek_logo.png"
 
 # Pagination
 paginate: 5
