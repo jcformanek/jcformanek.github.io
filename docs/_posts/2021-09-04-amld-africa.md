@@ -1,3 +1,4 @@
+---
 title: AMDL Africa Workshop
 categories:
 - Talks
