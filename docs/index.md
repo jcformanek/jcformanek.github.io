@@ -1,12 +1,10 @@
 ---
-title: Juan Claude Formanek
+title: About Me
 feature_image: "assets/images/cape_town_mountain.jpeg"
 feature_text: 
 ---
 
 <img src="assets/images/claude_formanek.jpeg" alt="Claude Formanek" style="width:240px;height:240px;">
-
-## About
 
 Claude is a motivated young South African, passionate about finding ways to unlock the potential in Africa. Claude is currently working towards a Masters degree in the field of Artificial Intelligence. He is actively doing research for an innovative UK-based AI company, InstaDeep. His research is focused on Multi-Agent Reinforcement learning, a cutting-edge sub-field of Machine Learning. 
 
