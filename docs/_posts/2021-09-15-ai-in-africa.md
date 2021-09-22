@@ -2,6 +2,7 @@
 title: What will AI mean for Africa?
 categories:
 - Projects
+- Talks
 feature_image: "/assets/images/cape_town_mountain.jpeg"
 ---
 
