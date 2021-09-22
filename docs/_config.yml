@@ -51,7 +51,7 @@ collections:
     output: true
     description: "My Posts"
     feature_text: 
-    feature_image: "/assets/images/cape_town_mountian.jpeg"
+    feature_image: "/assets/images/cape_town_mountain.jpeg"
 
 # Collection settings
 defaults:
