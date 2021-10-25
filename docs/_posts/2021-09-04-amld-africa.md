@@ -12,5 +12,7 @@ For the workshop I prepared interactive Jupyter notebooks and did a code walk-th
 
 {% include button.html text="GitHub" link="https://github.com/instadeepai/amld-africa-2021" %}
 
+{% include button.html text="Video" link="https://www.youtube.com/watch?v=KjCfM9oWfng" %}
+
 {% include figure.html image="/assets/images/flatland.gif" caption="Flatland - train scheduling simulator." %}
 
