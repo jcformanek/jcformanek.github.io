@@ -1,7 +1,7 @@
 ---
 title: Graph Neural Networks
 categories:
-- Projects
+- Research
 feature_image: "/assets/images/cape_town_mountain.png"
 ---
 
