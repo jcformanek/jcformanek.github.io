@@ -1,5 +1,5 @@
 ---
-title: Off-the_Grid MARL
+title: Off-the-Grid MARL
 categories:
 - Research
 - Publications
