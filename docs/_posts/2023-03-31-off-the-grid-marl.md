@@ -1,5 +1,5 @@
 ---
-title: Selective Reincarnation in MARL
+title: Off-the_Grid MARL
 categories:
 - Research
 - Publication
