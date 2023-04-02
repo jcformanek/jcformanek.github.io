@@ -1,7 +1,8 @@
 ---
 title: Selective Reincarnation in MARL
 categories:
-- Publications
+- Research
+- Publication
 feature_image: "/assets/images/cape_town_mountain.jpeg"
 ---
 

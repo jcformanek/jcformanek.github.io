@@ -1,7 +1,7 @@
 ---
 title: Claude Formanek
 feature_image: "assets/images/cape_town_mountain.jpeg"
-feature_text: Hi, I'm Claude.
+feature_text:
 ---
 
 <img src="assets/images/claude_formanek.jpeg" alt="Claude Formanek" style="width:240px;height:240px;">
