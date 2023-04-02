@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning Practical at the Deep Learning Indaba 2022
 categories:
-- Talk
+- Talks
 feature_image: "/assets/images/cape_town_mountain.jpeg"
 ---
 
