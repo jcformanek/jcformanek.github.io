@@ -7,7 +7,7 @@ feature_image: "/assets/images/cape_town_mountain.jpeg"
 
 The Cortex Club is a Neuroscience student club at the University of Cape Town. I gave a talk on Deep Reinfocement Learning and AI landscape more broadly.
 
-<img src="assets/images/cortex_club.jpg" alt="Claude Formanek at Cortex Club"/>
+<img src="/assets/images/cortex_club.jpg" alt="Claude Formanek at Cortex Club"/>
 
 The slides from my talk are available below.
 
