@@ -1,7 +1,6 @@
 ---
 title: AI Alignment at the Deep Learning Indaba 2022
 categories:
-- Projects
 - AI Safety
 feature_image: "/assets/images/cape_town_mountain.jpeg"
 ---

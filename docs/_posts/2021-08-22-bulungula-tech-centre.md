@@ -1,7 +1,7 @@
 ---
 title: Bulungula Tech Centre
 categories:
-- Projects
+- EdTech
 feature_image: "/assets/images/bulungula_tech_centre.jpg"
 ---
 For much of the first half of 2021 I was part of a team working on developing a low-cost computer lab for a school in a rural part of the Eastern Cape in South Africa. 

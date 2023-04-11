@@ -1,8 +1,6 @@
 ---
 title: What will AI mean for Africa?
 categories:
-- Projects
-- Talks
 - AI Safety
 feature_image: "/assets/images/cape_town_mountain.jpeg"
 ---

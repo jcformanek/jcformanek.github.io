@@ -1,7 +1,7 @@
 ---
 title: Deep Reinforcement Learning Talk at the Cortex Club
 categories:
-- Talks
+- PhD
 feature_image: "/assets/images/cape_town_mountain.jpeg"
 ---
 

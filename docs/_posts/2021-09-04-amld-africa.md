@@ -1,7 +1,7 @@
 ---
 title: AMDL Africa Workshop
 categories:
-- Talks
+- PhD
 feature_image: "/assets/images/mava.png"
 ---
 As one of the developers of [Mava](https://github.com/instadeepai/Mava/), an open-source research framework, I helped facilitate a workshop on multi-agent reinforcement learning at the [Applied Machine Learning Days](https://appliedmldays.org/events/amld-africa-2021) conference.

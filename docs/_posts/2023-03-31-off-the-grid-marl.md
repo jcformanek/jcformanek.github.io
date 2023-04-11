@@ -1,8 +1,7 @@
 ---
 title: Off-the-Grid MARL
 categories:
-- Research
-- Publications
+- PhD
 feature_image: "/assets/images/og_marl.png"
 ---
 
