@@ -2,7 +2,7 @@
 title: Graph Neural Networks
 categories:
 - Research
-feature_image: "/assets/images/cape_town_mountain.png"
+feature_image: "/assets/images/cape_town_mountain.jpeg"
 ---
 This report was for submission for the applied mathematics Honours project at the University of Cape Town. 
 Graph neural networks are a class of deep learning models which extend traditional deep neural network models, such as convolutional neural networks and recurrent neural networks, to non-Euclidean graph-structured data. 

@@ -2,7 +2,7 @@
 title: Reinforcement Learning Reading Module
 categories:
 - Research
-feature_image: "/assets/images/cape_town_mountain.png"
+feature_image: "/assets/images/cape_town_mountain.jpeg"
 ---
 As part of my honour year I completed a research project on deep reinforcement learning. I discussed most of the major breakthroughs which culminated in Agent57, a reinforcement learning agent which could play all 57 Atari games at a super-human level.
 
