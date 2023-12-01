@@ -24,7 +24,7 @@ plugins:
 url: 'https://claude.formanek.co.za/'
 baseurl: ''
 title: 'Claude Formanek'
-description: 'Personal Portfolio Website'
+description: 'Personal Website'
 permalink: pretty
 logo: "/assets/logos/robot_earth.png"
 
@@ -34,12 +34,12 @@ paginate_path: posts/page:num
 
 # Header nav
 navigation_header:
-- title: Home
-  url: /
-- title: Posts
-  url: /posts/
-- title: Categories
-  url: /categories/
+# - title: Home
+#   url: /
+# - title: Posts
+#   url: /posts/
+# - title: Categories
+#   url: /categories/
 
 # Footer nav
 navigation_footer:
@@ -48,27 +48,27 @@ navigation_footer:
 
 # Collections
 collections:
-  posts:
-    title: Posts
-    output: true
-    description: "A collection of projects, talks and publications that I have worked on."
-    feature_text: 
-    feature_image: "/assets/images/cape_town_mountain.jpeg"
+  # posts:
+  #   title: Posts
+  #   output: true
+  #   description: "A collection of projects, talks and publications that I have worked on."
+  #   feature_text: 
+  #   feature_image: "/assets/images/cape_town_mountain.jpeg"
 
 # Collection settings
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post # Set the default layout for posts
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page # Set the default layout for pages
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     layout: post # Set the default layout for posts
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "pages"
+  #   values:
+  #     layout: page # Set the default layout for pages
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
